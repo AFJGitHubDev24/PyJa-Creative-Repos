@@ -4,4 +4,9 @@
 3. Creating strong passwords for the clients using Passwords.py
 4. Some tricky codes for getting Wi-Fi passwords using Python
 
-Nt:- You can do any suggestions either on my GitHub account 'AFJGitHubDev24' or my email id 'alenfrancis957@gmail.com'
+# Note: 
+You can do any suggestions either on my GitHub account 'AFJGitHubDev24' or my email id 'alenfrancis957@gmail.com'
+
+# Current work:
+1. Working upon the exisitng Python files for enhancing them using frontend (with the help of HTML & CSS).
+2. Looking for an inclusion of some Python files using Python's Flask library.
