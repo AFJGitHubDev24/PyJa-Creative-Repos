@@ -1,4 +1,4 @@
-# Creative-Codes-using-Python
+# Creative-Codes-using-Python-and-Java
 1. Creating fun games using Python.
 2. Creating fun clocks using Python.
 3. Creating strong passwords for the clients using Passwords.py
