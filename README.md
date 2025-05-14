@@ -1,4 +1,4 @@
-# 😎 AFJ Creative Repositories: Creative Codes using All Programming Languages
+# 😎 AFJ Creative Repos: Creative Codes using All Programming Languages
 1. Creating fun games using Python.
 2. Creating fun clocks using Python.
 3. Creating strong passwords for the clients using 'Passwords.py'
