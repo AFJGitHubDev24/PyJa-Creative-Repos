@@ -1,6 +1,6 @@
 # 😎 AFJ Creative Repos: Creative Codes using All Programming Languages
 1. Creating fun games using Python.
-2. Creating fun clocks using Python.
+2. Creating fun clocks using Python, Java and React.js
 3. Creating strong passwords for the clients using 'Passwords.py'
 4. Some tricky codes for getting Wi-Fi passwords using Python
 5. Creating some simple calculation programs using Python & Java
