@@ -14,4 +14,4 @@ You can do any suggestions either on my GitHub account 'AFJGitHubDev24' or my em
 2. Looking for an inclusion of Python's Flask library in some of the existing Python files.
 
 # 🪪 LICENSE
-This repository is under the [Apache License 2.0](LICENSE) license.
+This repository is licensed under the [Apache License 2.0](LICENSE).
