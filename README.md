@@ -12,3 +12,6 @@ You can do any suggestions either on my GitHub account 'AFJGitHubDev24' or my em
 # ⚒️ Current work:
 1. Working upon the exisitng Python files for enhancing them using frontend (with the help of HTML & CSS).
 2. Looking for an inclusion of Python's Flask library in some of the existing Python files.
+
+# 🪪 LICENSE
+This repository is under the [Apache License 2.0](LICENSE).
