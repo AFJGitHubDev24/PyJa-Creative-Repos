@@ -8,6 +8,10 @@ function StopWatch() {
     const startTimeRef = useRef(0);
 
     useEffect(() => {
+        document.title = `⏱️Stopwatch Counter`;
+    });
+
+    useEffect(() => {
 
         if (isRunning) {
             intervalIdRef.current = setInterval(() => {
